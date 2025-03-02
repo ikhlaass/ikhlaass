@@ -1,10 +1,11 @@
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Ahsan)](https://git.io/typing-svg)
-  ### 💡 Tech Enthusiast | Software Developer  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=2C83FF&center=true&width=500&lines=Hi+There+%F0%9F%91%8B;I'm+Ikhlas)](https://git.io/typing-svg)
 
-  🔹 Passionate about **Software Development & AI**  
-  🔹 Always learning & building impactful solutions  
+### 💡 Tech Enthusiast | Software Developer
+
+🔹 Passionate about **Software Development & AI**  
+ 🔹 Always learning & building impactful solutions
 
   <p>
     <a href="https://instagram.com/a.ahzr">
@@ -18,17 +19,17 @@
     </a>
   </p>
 
-  ---
+---
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,html,bootstrap,tailwind,github,java,javascript,py" />
   </a>
 
-  ---
+---
 
-  ![](https://github-profile-trophy.vercel.app/?username=aahzr&theme=radical&no-frame=false&no-bg=true&margin-w=3)
+![](https://github-profile-trophy.vercel.app/?username=aahzr&theme=radical&no-frame=false&no-bg=true&margin-w=3)
 
-  ---
+---
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aahzr/aahzr/output/github-snake-dark.svg" />
