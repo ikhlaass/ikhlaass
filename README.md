@@ -8,13 +8,13 @@
  🔹 Always learning & building impactful solutions
 
   <p>
-    <a href="https://instagram.com/a.ahzr">
+    <a href="https://www.instagram.com/ikhlaass___">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/aahazr">
+    <a href="https://linkedin.com/in/ikhlaass">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:andiahsanashuri@gmail.com">
+    <a href="mailto:andiikhlas107@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
     </a>
   </p>
