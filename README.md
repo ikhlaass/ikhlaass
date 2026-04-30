@@ -1,74 +1,77 @@
 <div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=7c3aed&height=150&text=Andi%20Ikhlas&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:06b6d4&height=220&section=header&text=Andi%20Ikhlas&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Indonesia&descSize=16&descColor=bfdbfe&descAlignY=60" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=480&lines=Building+things+that+matter;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer;Always+learning%2C+always+growing" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikhlaass)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikhlaass___)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andiikhlas107@gmail.com)
-
-<br/><br/>
-
-![Building](https://img.shields.io/badge/Building-AI%20Finance%20Bot-2563eb?style=flat-square&logo=telegram&logoColor=white)&nbsp;
-![Learning](https://img.shields.io/badge/Learning-Machine%20Learning-7c3aed?style=flat-square&logo=python&logoColor=white)&nbsp;
-![Open To](https://img.shields.io/badge/Open%20To-Collaborations-06b6d4?style=flat-square&logo=handshake&logoColor=white)&nbsp;
-![Location](https://img.shields.io/badge/Indonesia-informational?style=flat-square&logo=googlemaps&logoColor=white&color=16a34a)
-
-</div>
-
-<br/>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 &nbsp;Currently Building: **AI-Powered Telegram Finance Bot**
-- 🌱 &nbsp;Currently Learning: **Machine Learning, Deep Learning & System Design**
-- 🤝 &nbsp;Open to: **Collaborations & Freelance Projects**
-- 💬 &nbsp;Ask me about: **Python, AI/ML, Web Development**
-- ⚡ &nbsp;Fun fact: I debug at 2am and it somehow always works ☕
-
----
-
-## 🔧 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark&perline=7" />
-
-<br/>
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,flask,bootstrap,git,vscode,linux&theme=dark&perline=7" />
-
+  <br/><br/>
+  
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=440&lines=Software+Developer;AI+%26+ML+Enthusiast;Full-Stack+Engineer;Problem+Solver" alt="Typing SVG" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Social Badges -->
+  <a href="https://linkedin.com/in/ikhlaass"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ikhlaass___"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:andiikhlas107@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=ikhlaass&style=for-the-badge&color=7c3aed" />
+  
 </div>
 
 ---
 
-## 🏆 Trophies
+### 🧑‍💻 &nbsp;About Me
+
+<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtdWZjNm9idzlycjRqM3FpMjBldnk2djIxZGdtdmx0dzZrbWY1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+&nbsp;&nbsp;&nbsp;🔭 Building **AI-Powered Telegram Finance Bot**\
+&nbsp;&nbsp;&nbsp;🌱 Learning **Machine Learning, Deep Learning & System Design**\
+&nbsp;&nbsp;&nbsp;🤝 Open to **Collaborations & Freelance Projects**\
+&nbsp;&nbsp;&nbsp;💬 Ask me about **Python, AI/ML, Web Development**\
+&nbsp;&nbsp;&nbsp;📍 Based in **Indonesia** 🇮🇩\
+&nbsp;&nbsp;&nbsp;⚡ Fun fact: I debug at 2am and it works ☕
+
+<br clear="both" />
+
+---
+
+### 🛠 &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ikhlaass&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=8" />
+#### Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&perline=7" />
+
+#### Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=nodejs,react,flask,bootstrap,tailwind,git,vscode&perline=7" />
+
+#### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,linux,figma&perline=7" />
 
 </div>
 
 ---
 
-<div align="center">
+### 🔥 &nbsp;GitHub Stats
 
-*"The best code is the one that solves real problems."* ✨
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikhlaass&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlaass&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" />
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:2563eb&height=120&section=footer" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ikhlaass&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" />
 </div>
