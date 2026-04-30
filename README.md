@@ -1,27 +1,16 @@
 <div align="center">
 
-<!-- ═══════════ HEADER ═══════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=ikhlaass&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20·%20AI%20Enthusiast&descAlignY=60&descSize=16&descColor=8b949e" />
-
-<!-- ═══════════ TYPING ═══════════ -->
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Building+impactful+software+🚀;Exploring+AI+%26+Machine+Learning+🤖;Learning+every+day+💡" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=210&section=header&text=Andi%20Ikhlas&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descColor=e0e7ff&descAlignY=60" />
 
 <br/>
 
-<!-- ═══════════ SOCIAL ═══════════ -->
-<a href="https://linkedin.com/in/ikhlaass">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="26"/>
-</a>&nbsp;
-<a href="https://instagram.com/ikhlaass___">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26"/>
-</a>&nbsp;
-<a href="mailto:andiikhlas107@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ikhlaass&label=views&color=58a6ff&style=flat-square" height="26"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+things+that+matter;AI+%26+Machine+Learning+Explorer;Full-Stack+Developer;Based+in+Indonesia" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikhlaass)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikhlaass___)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andiikhlas107@gmail.com)
 
 </div>
 
@@ -29,47 +18,43 @@
 
 ---
 
-## 👤 About
+## ⚡ Quick Facts
 
-```yaml
-Name     : Andi Ikhlas
-Based in : Indonesia 🇮🇩
-Role     : Software Developer & AI Enthusiast
-Working  : AI-Powered Telegram Finance Bot
-Learning : Machine Learning, Deep Learning, System Design
-Open to  : Collaborations & Freelance Projects
+```ts
+const ikhlas = {
+  location  : "Indonesia 🇮🇩",
+  role      : "Software Developer & AI Enthusiast",
+  building  : "AI-Powered Telegram Finance Bot",
+  learning  : ["Machine Learning", "Deep Learning", "System Design"],
+  openTo    : ["Collaborations", "Freelance Projects"],
+  funFact   : "I debug at 2am and it somehow works ☕",
+};
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <div align="center">
-
-**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark&perline=7" />
 
 <br/>
 
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,flask,bootstrap,git,vscode,linux&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,flask,bootstrap,git,linux,mysql&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ikhlaass&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
-  <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
+*"The best code is the one that solves real problems."* ✨
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" />
+
 </div>
