@@ -1,13 +1,13 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=7c3aed&height=150&text=Andi%20Ikhlas&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Andi%20Ikhlas&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/><br/>
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=440&lines=Software+Developer;AI+%26+ML+Enthusiast;Full-Stack+Engineer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+%26+ML+Enthusiast;Full-Stack+Engineer;Problem+Solver" alt="Typing SVG" />
   </a>
   
   <br/><br/>
