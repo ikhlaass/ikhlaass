@@ -24,6 +24,12 @@
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" />
+</div>
+
+<br/>
+
 ---
 
 <!-- About Me -->
