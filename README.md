@@ -19,6 +19,8 @@
 
 <br/>
 
+
+
 ---
 
 <!-- About Me -->
@@ -44,3 +46,36 @@ class AndiIkhlas:
         return "I debug at 2AM and it somehow works ☕"
 
 me = AndiIkhlas()
+```
+
+<br/>
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,nodejs,react,flask,bootstrap,tailwind&perline=12" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,figma&perline=12" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+<br/>
+
+**✨ Thanks for visiting!**
+
+</div>
